@@ -1,0 +1,6 @@
+E:\ADO.net\HandsOnADO\bin\Debug\HandsOnADO.exe.config
+E:\ADO.net\HandsOnADO\bin\Debug\HandsOnADO.exe
+E:\ADO.net\HandsOnADO\bin\Debug\HandsOnADO.pdb
+E:\ADO.net\HandsOnADO\obj\Debug\HandsOnADO.csprojAssemblyReference.cache
+E:\ADO.net\HandsOnADO\obj\Debug\HandsOnADO.exe
+E:\ADO.net\HandsOnADO\obj\Debug\HandsOnADO.pdb

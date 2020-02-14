@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary.csproj", "{0DCB2C9E-F12A-4762-B0E6-C71FEDF2F1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMSClient", "..\EMSClient\EMSClient.csproj", "{8BFFEFC1-38FB-4F1D-9568-01DC3C1D3DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCB2C9E-F12A-4762-B0E6-C71FEDF2F1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCB2C9E-F12A-4762-B0E6-C71FEDF2F1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCB2C9E-F12A-4762-B0E6-C71FEDF2F1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCB2C9E-F12A-4762-B0E6-C71FEDF2F1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFFEFC1-38FB-4F1D-9568-01DC3C1D3DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFFEFC1-38FB-4F1D-9568-01DC3C1D3DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFFEFC1-38FB-4F1D-9568-01DC3C1D3DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFFEFC1-38FB-4F1D-9568-01DC3C1D3DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230BB069-D286-4096-910E-BC66F522EBD3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\ADO.net\HandsOnDataAccess\bin\Debug\netcoreapp3.1\HandsOnDataAccess.deps.json
+E:\ADO.net\HandsOnDataAccess\bin\Debug\netcoreapp3.1\HandsOnDataAccess.dll
+E:\ADO.net\HandsOnDataAccess\obj\Debug\netcoreapp3.1\HandsOnDataAccess.csprojAssemblyReference.cache
+E:\ADO.net\HandsOnDataAccess\obj\Debug\netcoreapp3.1\HandsOnDataAccess.AssemblyInfoInputs.cache
+E:\ADO.net\HandsOnDataAccess\obj\Debug\netcoreapp3.1\HandsOnDataAccess.AssemblyInfo.cs
+E:\ADO.net\HandsOnDataAccess\bin\Debug\netcoreapp3.1\HandsOnDataAccess.runtimeconfig.json
+E:\ADO.net\HandsOnDataAccess\bin\Debug\netcoreapp3.1\HandsOnDataAccess.runtimeconfig.dev.json
+E:\ADO.net\HandsOnDataAccess\bin\Debug\netcoreapp3.1\HandsOnDataAccess.pdb
+E:\ADO.net\HandsOnDataAccess\obj\Debug\netcoreapp3.1\HandsOnDataAccess.dll
+E:\ADO.net\HandsOnDataAccess\obj\Debug\netcoreapp3.1\HandsOnDataAccess.pdb
